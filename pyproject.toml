@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_findit"
+description = "Custom node for finding files and showing their contents"
+version = "0.0.1"
+license = { file = "LICENSE" }
+
+[project.urls]
+Repository = "https://github.com/silveroxides/ComfyUI-FindIt"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "silveroxides"
+DisplayName = "ComfyUI-FindIt"
+Icon = ""
